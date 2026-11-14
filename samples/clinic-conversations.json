@@ -1,0 +1,2369 @@
+{
+  "synthetic": true,
+  "conversations": [
+    {
+      "id": "c-001",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Do you issue immunisation records?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "thanks anyway"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-002",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Can I see a doctor this week?"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "thursday afternoon"
+        },
+        {
+          "role": "bot",
+          "text": "Thursday 13 November has openings at 14:15, 15:00 and 16:30. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "3pm"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Thursday 13 November at 15:00. What email address should I send the confirmation to?"
+        },
+        {
+          "role": "customer",
+          "text": "j.kowal@example.com"
+        },
+        {
+          "role": "bot",
+          "text": "Confirmation sent to j.kowal@example.com."
+        }
+      ]
+    },
+    {
+      "id": "c-003",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "hi"
+        },
+        {
+          "role": "customer",
+          "text": "uh what time are you open on sundays"
+        },
+        {
+          "role": "bot",
+          "text": "We are closed on Sunday. Our regular hours are Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "ok then saturday"
+        },
+        {
+          "role": "bot",
+          "text": "Yes, on Saturday we are open from 9:00 to 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "thanks bye"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-004",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "need to cancel"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "the 25th"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Tuesday 25 November at 13:30 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "yes"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "saturday 22nd"
+        },
+        {
+          "role": "bot",
+          "text": "Saturday 22 November has openings at 9:00, 10:15 and 12:00. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "10:15"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Saturday 22 November at 10:15. A confirmation is on its way to your email."
+        }
+      ]
+    },
+    {
+      "id": "c-005",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "hi i would like to cancel tomorrow's appointment"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "tomorrow is wednesday the twelfth"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Wednesday 12 November at 08:45 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "yes next week same time"
+        },
+        {
+          "role": "bot",
+          "text": "Next week at 08:45: Wednesday 19 November is free. Shall I book it?"
+        },
+        {
+          "role": "customer",
+          "text": "yes"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Wednesday 19 November at 08:45. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-006",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Where do I get a vaccination certificate for work?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "who do I ask for it"
+        },
+        {
+          "role": "bot",
+          "text": "I can only help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-007",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Hello, I would like to schedule an appointment with a doctor for a general check up sometime next week, preferably in the morning if possible"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "Wednesday 19th"
+        },
+        {
+          "role": "bot",
+          "text": "Wednesday 19 November has openings at 8:45, 10:15 and 11:30. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "8:45"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Wednesday 19 November at 8:45. What email address should I send the confirmation to?"
+        },
+        {
+          "role": "customer",
+          "text": "kasia.w@example.com"
+        },
+        {
+          "role": "bot",
+          "text": "Confirmation sent to kasia.w@example.com."
+        },
+        {
+          "role": "customer",
+          "text": "thanks a lot"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-008",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "how much does a consultation cost"
+        },
+        {
+          "role": "bot",
+          "text": "I can only help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok thanks"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-009",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "what time is it open on monday"
+        },
+        {
+          "role": "bot",
+          "text": "On Monday we are open from 8:00 to 18:00."
+        },
+        {
+          "role": "customer",
+          "text": "and is it possible to book for eight"
+        },
+        {
+          "role": "bot",
+          "text": "Monday 17 November has openings at 8:00, 9:15 and 12:30. Shall I book 8:00?"
+        },
+        {
+          "role": "customer",
+          "text": "yes"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Monday 17 November at 8:00. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "great thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-010",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Please cancel my appointment on 20 November"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Thursday 20 November at 16:00 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-011",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Is there parking at the clinic?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok then can I book for thursday"
+        },
+        {
+          "role": "bot",
+          "text": "Thursday 13 November has openings at 9:30, 11:00 and 15:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "11:00"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Thursday 13 November at 11:00. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-012",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Where exactly is the clinic?"
+        },
+        {
+          "role": "bot",
+          "text": "We are at 14 Linden Street, next to Harbour Pharmacy. Tram 7 stops at Linden Square, a two-minute walk."
+        },
+        {
+          "role": "customer",
+          "text": "and from the central station?"
+        },
+        {
+          "role": "bot",
+          "text": "From Central Station take tram 7 for four stops to Linden Square. The clinic is on the left, number 14."
+        },
+        {
+          "role": "customer",
+          "text": "perfect"
+        },
+        {
+          "role": "bot",
+          "text": "Glad to help. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-013",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "i need to cancel tomorrows slot"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "tomorrow"
+        },
+        {
+          "role": "bot",
+          "text": "Tuesday 10 November has openings at 13:00 and 16:15. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "no cancel"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "forget it ill call"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-014",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Can you send the bill to my insurance company?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "my policy number is 44812290"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-015",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "can someone read me my results over the phone"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-016",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "i lost my child's vaccine card can you reissue it"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "thank you"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-017",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "when will my results from monday be in"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "the results from the blood test on monday"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "thank you bye"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-018",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "my tablets are running out, how do I get more"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "Opening hours? I want to call about it"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "can I just call and ask them to renew it"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        }
+      ]
+    },
+    {
+      "id": "c-019",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "what are your opening hours"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "until what time on fridays"
+        },
+        {
+          "role": "bot",
+          "text": "On Friday we are open until 18:00."
+        },
+        {
+          "role": "customer",
+          "text": "great bye"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-020",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I'd like to cancel my appointment"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "cancel it, not book"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "Monday"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Monday 17 November at 08:30 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no thank you"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-021",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "i have an appointment on thursday is there parking nearby"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "where exactly is it"
+        },
+        {
+          "role": "bot",
+          "text": "We are at 14 Linden Street, next to Harbour Pharmacy. Tram 7 stops at Linden Square, a two-minute walk."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-022",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Can I get a copy of my vaccination certificate?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "I need proof of my vaccines for travel"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "vaccination record, can you print it"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-023",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "do you accept my insurance"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "Northfield Health, do you take it?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-024",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "is the yearly check up covered by insurance"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "Book me for Tuesday"
+        },
+        {
+          "role": "bot",
+          "text": "Tuesday 18 November has openings at 9:30, 11:00 and 15:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "9:30"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Tuesday 18 November at 9:30. What email address should I send the confirmation to?"
+        },
+        {
+          "role": "customer",
+          "text": "a.kaminski@example.com"
+        },
+        {
+          "role": "bot",
+          "text": "Confirmation sent to a.kaminski@example.com."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-025",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Can the doctor reissue my prescription without an appointment?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "so do I have to book a visit for that"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "friday"
+        },
+        {
+          "role": "bot",
+          "text": "Friday 14 November has openings at 10:15, 12:00 and 15:30. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "12:00"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Friday 14 November at 12:00. A confirmation is on its way to your email."
+        }
+      ]
+    },
+    {
+      "id": "c-026",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Any appointment on Saturday morning?"
+        },
+        {
+          "role": "bot",
+          "text": "Saturday 15 November has openings at 9:00, 9:45 and 11:30. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "9:45"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Saturday 15 November at 9:45. What email address should I send the confirmation to?"
+        },
+        {
+          "role": "customer",
+          "text": "mark.d@example.net"
+        },
+        {
+          "role": "bot",
+          "text": "Confirmation sent to mark.d@example.net."
+        },
+        {
+          "role": "customer",
+          "text": "thanks!"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-027",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Are you a real person?"
+        },
+        {
+          "role": "bot",
+          "text": "I can only help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok book me for tuesday then"
+        },
+        {
+          "role": "bot",
+          "text": "Tuesday 18 November has openings at 9:30, 11:00 and 15:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "9:30"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Tuesday 18 November at 9:30. A confirmation is on its way to your email."
+        }
+      ]
+    },
+    {
+      "id": "c-028",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Can I collect my blood test results?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "how do I pick up my lab results"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "Where is the clinic by the way?"
+        },
+        {
+          "role": "bot",
+          "text": "We are at 14 Linden Street, next to Harbour Pharmacy. Tram 7 stops at Linden Square, a two-minute walk."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-029",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "when do you close on friday"
+        },
+        {
+          "role": "bot",
+          "text": "On Friday we are open until 18:00."
+        },
+        {
+          "role": "customer",
+          "text": "and saturday"
+        },
+        {
+          "role": "bot",
+          "text": "On Saturday we are open until 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "great thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-030",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "what's the closest tram stop"
+        },
+        {
+          "role": "bot",
+          "text": "Tram 7 stops at Linden Square, a two-minute walk from number 14 Linden Street."
+        },
+        {
+          "role": "customer",
+          "text": "and bus?"
+        },
+        {
+          "role": "bot",
+          "text": "Bus 22 stops on Linden Street, outside the pharmacy."
+        },
+        {
+          "role": "customer",
+          "text": "ok thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-031",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Results for my son's urine sample ready?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "can I get them by email"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-032",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Are you open at lunchtime?"
+        },
+        {
+          "role": "bot",
+          "text": "Yes, we are open through lunchtime. Hours: Monday to Friday 8:00 to 18:00, Saturday 9:00 to 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "good, thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-033",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I need to cancel"
+        },
+        {
+          "role": "customer",
+          "text": "the appointment on Monday 17th"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Monday 17 November at 08:30 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-034",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "cancel my appointment please"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "the twenty first"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Friday 21 November at 11:15 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no that is all my number is 07700 900123 if you need"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-035",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I need to cancel my appointment"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "this Friday"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Friday 14 November at 10:15 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no thanks"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-036",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I need to renew my prescription"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "Can I get a repeat prescription?"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "where is the clinic"
+        },
+        {
+          "role": "bot",
+          "text": "We are at 14 Linden Street, next to Harbour Pharmacy. Tram 7 stops at Linden Square, a two-minute walk."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-037",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "copy of my covid vaccine certificate"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "covid certificate"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        }
+      ]
+    },
+    {
+      "id": "c-038",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Hi, I need to book an appointment"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "next Tuesday"
+        },
+        {
+          "role": "bot",
+          "text": "Tuesday 18 November has openings at 9:30, 11:00 and 15:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "11 please"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Tuesday 18 November at 11:00. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-039",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I can't make my appointment on Friday, please take it off the calendar"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "I don't want a new one. cancel the Friday one"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "14 November"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Friday 14 November at 10:15 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-040",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "how do i get to the clinic by bus"
+        },
+        {
+          "role": "bot",
+          "text": "Bus 22 and tram 7 both stop near us. Tram 7 stops at Linden Square, a two-minute walk from number 14 Linden Street."
+        },
+        {
+          "role": "customer",
+          "text": "which one is faster from the university"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "never mind thank you"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-041",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Can I get an invoice for my last visit?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "I never received the invoice for October"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "my email is r.wisniewski@example.com can you resend it"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-042",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Hello, I'm coming by car tomorrow, is parking free?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "parking cost?"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "and what are your opening hours"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        }
+      ]
+    },
+    {
+      "id": "c-043",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "hello i did a blood test last week where do i get the results"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "my results from last monday"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "ok thank you bye"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-044",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Will you be open on 26 December?"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "ok thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-045",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "do you do dental work"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok what are your hours then"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        }
+      ]
+    },
+    {
+      "id": "c-046",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Hi"
+        },
+        {
+          "role": "bot",
+          "text": "Hello! I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "I want to see the doctor on tuesday"
+        },
+        {
+          "role": "bot",
+          "text": "Tuesday 18 November has openings at 9:30, 11:00 and 15:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "15:45"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Tuesday 18 November at 15:45. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-047",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "what time do you open on saturdays"
+        },
+        {
+          "role": "bot",
+          "text": "Yes, on Saturday we are open from 9:00 to 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "and sundays"
+        },
+        {
+          "role": "bot",
+          "text": "We are closed on Sunday. Our regular hours are Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "ok thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-048",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Are you open on Christmas Eve?"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-049",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "what are your hours over Easter?"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "ok thank you"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-050",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "hi where can i park my car when i come"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "do you have a car park"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "forget it"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-051",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "i need a receipt to claim from my insurer"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "what time do you open"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-052",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Are you open on Saturdays?"
+        },
+        {
+          "role": "bot",
+          "text": "Yes, on Saturday we are open from 9:00 to 13:00."
+        },
+        {
+          "role": "customer",
+          "text": "Book me for this saturday"
+        },
+        {
+          "role": "bot",
+          "text": "Saturday 15 November has openings at 9:00, 9:45 and 11:30. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "11:30"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Saturday 15 November at 11:30. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "thx"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-053",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "book an appointment for friday"
+        },
+        {
+          "role": "bot",
+          "text": "Friday 14 November has openings at 10:15, 12:00 and 15:30. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "twelve"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Friday 14 November at 12:00. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "can i leave my bike somewhere outside"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "no worries"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-054",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Opening times on the bank holiday Monday?"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-055",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "please cancel my appointment"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "no cancel my appointment"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "cancel"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "friday the fourteenth"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Friday 14 November at 15:30 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-056",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "are you open on new years day"
+        },
+        {
+          "role": "bot",
+          "text": "We are open Monday to Friday 8:00 to 18:00 and Saturday 9:00 to 13:00. We are closed on Sunday."
+        },
+        {
+          "role": "customer",
+          "text": "thats not what i asked"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        }
+      ]
+    },
+    {
+      "id": "c-057",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "hello"
+        },
+        {
+          "role": "customer",
+          "text": "sorry to bother you"
+        },
+        {
+          "role": "customer",
+          "text": "can I book an appointment for wednesday"
+        },
+        {
+          "role": "bot",
+          "text": "Wednesday 12 November has openings at 10:30 and 14:00. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "14:00"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Wednesday 12 November at 14:00. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "thanks"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-058",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Hi, where do I ask for a refill of my regular medication?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "Is it possible to renew it online?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "ok"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-059",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "i want to book an appointment"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "thursday"
+        },
+        {
+          "role": "bot",
+          "text": "Thursday 13 November has openings at 9:30, 11:00 and 15:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "the first one"
+        },
+        {
+          "role": "bot",
+          "text": "Booked: Thursday 13 November at 9:30. A confirmation is on its way to your email."
+        },
+        {
+          "role": "customer",
+          "text": "thank you"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-060",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I use a wheelchair. Is there step free access?"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "Is there a ramp or a lift?"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        },
+        {
+          "role": "customer",
+          "text": "ok I will call"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-061",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Is the clinic near the harbour?"
+        },
+        {
+          "role": "bot",
+          "text": "Yes. We are at 14 Linden Street, next to Harbour Pharmacy, a few minutes from the harbour."
+        },
+        {
+          "role": "customer",
+          "text": "ok thank you"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-062",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "I want to speak to a human"
+        },
+        {
+          "role": "bot",
+          "text": "Sorry, I did not understand that. I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "hello?"
+        },
+        {
+          "role": "bot",
+          "text": "Can you rephrase that, please?"
+        }
+      ]
+    },
+    {
+      "id": "c-063",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Cancel my visit on the 20th"
+        },
+        {
+          "role": "bot",
+          "text": "Sure. Which day would you like?"
+        },
+        {
+          "role": "customer",
+          "text": "20th"
+        },
+        {
+          "role": "bot",
+          "text": "Thursday 20 November has openings at 9:30 and 14:45. Which suits you?"
+        },
+        {
+          "role": "customer",
+          "text": "no I want to CANCEL the appointment I already have"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "thursday 20th"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Thursday 20 November at 16:00 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-064",
+      "channel": "chat",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "Where is the clinic?"
+        },
+        {
+          "role": "bot",
+          "text": "We are at 14 Linden Street, next to Harbour Pharmacy. Tram 7 stops at Linden Square, a two-minute walk."
+        },
+        {
+          "role": "customer",
+          "text": "is there a pharmacy nearby"
+        },
+        {
+          "role": "bot",
+          "text": "Yes, Harbour Pharmacy is next door at number 12."
+        },
+        {
+          "role": "customer",
+          "text": "great"
+        },
+        {
+          "role": "bot",
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-065",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "i need to cancel my appointment on thursday"
+        },
+        {
+          "role": "bot",
+          "text": "I can cancel that. Which date is the appointment?"
+        },
+        {
+          "role": "customer",
+          "text": "the thirteenth"
+        },
+        {
+          "role": "bot",
+          "text": "Your appointment on Thursday 13 November at 09:30 is cancelled. Would you like to rebook?"
+        },
+        {
+          "role": "customer",
+          "text": "no thank you"
+        },
+        {
+          "role": "bot",
+          "text": "No problem. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "c-066",
+      "channel": "voice",
+      "messages": [
+        {
+          "role": "bot",
+          "text": "Hello, I'm the Linden Street Clinic assistant. How can I help?"
+        },
+        {
+          "role": "customer",
+          "text": "hello"
+        },
+        {
+          "role": "bot",
+          "text": "Hello! I can help with booking, cancelling, opening hours and directions."
+        },
+        {
+          "role": "customer",
+          "text": "how do i find you"
+        },
+        {
+          "role": "bot",
+          "text": "We are at 14 Linden Street, next to Harbour Pharmacy. Tram 7 stops at Linden Square, a two-minute walk."
+        },
+        {
+          "role": "customer",
+          "text": "is it far from the tram"
+        },
+        {
+          "role": "bot",
+          "text": "Tram 7 stops at Linden Square, a two-minute walk from the clinic."
+        },
+        {
+          "role": "customer",
+          "text": "good thank you"
+        },
+        {
+          "role": "bot",
+          "text": "You're welcome. Goodbye."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "batchSize": 15,
+  "requestDelayMs": 6500,
+  "maxRetries": 4,
+  "fallbackPhrases": ["did not understand", "can you rephrase", "i can only help with"]
+}
