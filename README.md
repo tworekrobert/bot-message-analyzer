@@ -68,7 +68,7 @@ A **C# / .NET 8** command-line tool that reads conversation logs, judges every c
 ## Installation and run
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/tworekrobert/bot-message-analyzer.git
 cd bot-message-analyzer
 dotnet build -c Release
 ```
@@ -146,16 +146,6 @@ The sample contains five planted gaps and two planted wrong-answer patterns. Wha
 - Both wrong-answer patterns were detected: cancellation answered with the booking flow (5 wrong answers) and holiday hours answered with the regular hours (4 wrong answers).
 
 Model output can differ between runs, models and prompt versions. The committed cache (`samples/clinic.cache.jsonl`) is what makes this result reproducible.
-
-<!--
-Planted gaps in samples/clinic-conversations.json:
-1. parking and step-free access
-2. lab results
-3. prescription renewals
-4. invoices and insurance
-5. vaccination certificates
-Wrong-answer patterns: holiday hours answered with regular hours; cancel answered with the booking flow.
--->
 
 ---
 
