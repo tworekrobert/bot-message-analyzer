@@ -10,6 +10,7 @@ A **C# / .NET 8** command-line tool that reads conversation logs, judges every c
 
 ![.NET](https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-generateContent-4285F4?style=for-the-badge)
+[![ci](https://img.shields.io/github/actions/workflow/status/tworekrobert/bot-message-analyzer/ci.yml?branch=main&style=for-the-badge&label=tests)](https://github.com/tworekrobert/bot-message-analyzer/actions/workflows/ci.yml)
 
 <br />
 
