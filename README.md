@@ -14,6 +14,7 @@ A **C# / .NET 8** command-line tool that reads conversation logs, judges every c
 
 <br />
 
+<a href="#screenshots">Screenshots</a> |
 <a href="#features">Features</a> |
 <a href="#installation-and-run">Run</a> |
 <a href="#usage">Usage</a> |
@@ -39,6 +40,32 @@ A **C# / .NET 8** command-line tool that reads conversation logs, judges every c
     <td><strong>Scope</strong><br />Independent of any bot platform. Input is one documented JSON format, and the only external service is the Gemini API.</td>
   </tr>
 </table>
+
+---
+
+## Screenshots
+
+All three come from a real run on the synthetic sample in `samples/`, answered from the committed cache, so anyone can get the same output without a key.
+
+### Report
+
+`report.md` shows the verdict counts and the gaps ranked by how many failed turns they cover.
+
+![Summary and ranked gaps from report.md](docs/screenshots/report-summary.png)
+
+<details>
+<summary><strong>Gap details with example customer messages</strong></summary>
+
+![Gap details from report.md](docs/screenshots/gap-details.png)
+
+</details>
+
+<details>
+<summary><strong>Validating and analysing the sample in the terminal</strong></summary>
+
+![Terminal run of bma validate and bma analyze](docs/screenshots/terminal-run.png)
+
+</details>
 
 ---
 
@@ -262,6 +289,7 @@ bot-message-analyzer/
 |-- tests/BotMessageAnalyzer.Tests/
 |-- prompts/              # versioned prompts, embedded in the build
 |-- samples/              # synthetic conversations, config, committed cache
+|-- docs/screenshots/
 |-- .github/workflows/ci.yml
 |-- .env.example
 |-- BotMessageAnalyzer.sln
