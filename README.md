@@ -131,6 +131,13 @@ bma analyze <input.json> --config <config.json> [--out ./out] [--cache .cache/re
 bma validate <input.json>
 ```
 
+`bma` is the built program. Use `dotnet run --project src/BotMessageAnalyzer -c Release -- <command>` as in the quick start, or publish it once and call it directly:
+
+```bash
+dotnet publish src/BotMessageAnalyzer -c Release -o bin
+./bin/bma validate samples/clinic-conversations.json
+```
+
 `--config` is required because the model name comes from it. If a turn is not in the cache and `GEMINI_API_KEY` is not set, the run stops with exit code `2` before sending anything.
 
 Excerpt of `out/report.md` from the sample run:
